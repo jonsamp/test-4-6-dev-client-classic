@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Using classic manifests: 1</Text>
+      <Text>Using modern manifests: 2</Text>
       <StatusBar style='auto' />
     </View>
   );
